@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #011627;
+    color: #fdfffc;
+    text-align: center;
+    
+}
+table{
+    margin: auto;
+    width: 382px;
+    height: 65px;
+    font-size: 45px;
+    border-radius: solid 20px brown;
+    border: 20px;
+    
+#ag{
+    background-color: green;
+}
+/* #aa{
+    height: 135px;
+} */
